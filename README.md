@@ -1,7 +1,7 @@
 # WordPress The Good Parts
 
-[![Back-end CI](.github/assets/back-end.svg)](/actions)
-[![Front-end CI](.github/assets/front-end.svg)](/actions)
+[![Back-end CI](.github/assets/back-end.svg)](https://github.com/szepeviktor/WordPress-the-good-parts/actions)
+[![Front-end CI](.github/assets/front-end.svg)](https://github.com/szepeviktor/WordPress-the-good-parts/actions)
 [![Staging link](.github/assets/staging.svg)](https://www.szepe.net/)
 
 A sustainable and modernized version of WordPress core.
