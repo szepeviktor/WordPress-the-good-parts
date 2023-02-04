@@ -6,7 +6,7 @@
 
 A sustainable and modernized version of WordPress core.
 
-### Features
+## Features
 
 1. Highly improved logic: all features in a single file
 1. Improved code quality
