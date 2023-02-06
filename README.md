@@ -13,4 +13,4 @@ A sustainable and modernized version of WordPress core.
 1. Very robust
 1. Maximum security
 1. Optimized performance
-1. Future proof
+1. Future-proof
